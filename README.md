@@ -13,9 +13,13 @@ Structuring: Learn to structure page layouts and organize content/elements withi
 CSS Skills
 
 Classes: Understand how to use classes to style HTML elements.
+
 Selectors: Gain knowledge on basic selectors, including last-child selectors.
+
 Basic Styling: Master fundamental styling properties such as padding, margin, etc.
+
 Flexbox Properties: Utilize Flexbox to create responsive layouts.
+
 Hover Property: Implement hover effects to enhance user interaction.
 
 # How it looks 🎥
