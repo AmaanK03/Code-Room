@@ -22,3 +22,4 @@ This project aims to utilize CSS selectors and classes to style HTML elements, c
 - Hover Property: Implement hover effects to enhance user interaction.
 
 # How it looks 🎥
+https://github.com/AmaanK03/Code-Room/assets/123104886/79d39f9b-ae3d-47ba-83a4-c8561f7de52b
