@@ -7,7 +7,7 @@ This project aims to utilize CSS selectors and classes to style HTML elements, c
 
 **HTML Skills**
 
-Structuring: Learn to structure page layouts and organize content/elements within the page.
+- Structuring: Learn to structure page layouts and organize content/elements within the page.
 
 **CSS Skills**
 
